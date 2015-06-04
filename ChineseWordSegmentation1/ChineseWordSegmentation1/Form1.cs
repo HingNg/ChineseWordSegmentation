@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Collections;
 using System.IO;
-
+//I have changes！！
 namespace ChineseWordSegmentation1
 {
     public partial class Form1 : Form
