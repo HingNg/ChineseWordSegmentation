@@ -1,0 +1,9 @@
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\bin\Debug\ChineseWordSegmentation1.exe.config
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.csprojResolveAssemblyReference.cache
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.Form1.resources
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.Properties.Resources.resources
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.csproj.GenerateResource.Cache
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\bin\Debug\ChineseWordSegmentation1.exe
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\bin\Debug\ChineseWordSegmentation1.pdb
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.exe
+G:\Projects\C#_Projects\C#_Projects\Examples\ChineseWordSegmentation1\ChineseWordSegmentation1\obj\Debug\ChineseWordSegmentation1.pdb
