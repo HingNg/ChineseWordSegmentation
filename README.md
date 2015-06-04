@@ -1,0 +1,2 @@
+# ChineseWordSegmentation
+using C# winForm  
